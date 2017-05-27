@@ -3,7 +3,6 @@ config = require './config'
 
 yargs = require 'yargs'
 chalk = require 'chalk'
-run   = require 'run-sequence'
 
 gulp.task 'watch-dae' , (cb) ->
 	gulp.watch '3d/*.dae' , ['dae']

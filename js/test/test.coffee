@@ -1,6 +1,3 @@
-# Important Dependencies
-require 'gsap'
-
 Debug = require 'Debug'
 Animation = require 'Animation'
 

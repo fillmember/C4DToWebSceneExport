@@ -1,6 +1,12 @@
 # C4DToWebSceneExport
 a recipe for export scene &amp; animation data to web
 
+## Dependencies
+
+1. Gulp
+2. Greensock Animation Libraries
+3. Three.js for binding to Three scene. 
+
 ## How to use?
 
 1. Export Collada(DAE) from Cinema 4D and save it to 3d/input
