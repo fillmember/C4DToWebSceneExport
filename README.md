@@ -6,6 +6,8 @@ a recipe for export scene &amp; animation data to web
 1. Gulp
 2. Greensock Animation Libraries
 3. Three.js for binding to Three scene. 
+4. Coffeescript
+5. Autodesk FBX SDK
 
 ## How to use?
 
@@ -52,7 +54,7 @@ DAE files are written in XML, it is slightly easier for me to harvest data out o
 
 The first thing could be the easing function
 
-I realized that I often want to insert interactive parts into my scene. Therefore I want to write a script which output scene.js from the DAE file, without relying on Autodesk's FBX library. 
+I realized that I often want to insert interactive parts into my scene. Therefore I want to write a script which output scene.js from the DAE file, without relying on Autodesk's FBX SDK. 
 
 I would like to have a scene.js export pipeline which can do the following...
 
