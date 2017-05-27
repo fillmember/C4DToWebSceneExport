@@ -1,0 +1,26 @@
+
+body {
+	margin: 1em;
+	font-family: monospace;
+
+	background: #000;
+}
+
+h1 {
+	font-weight: 900;
+	color: #00FFFF;
+}
+
+h2 {
+	font-weight: 700;
+	color: #E2B600;
+}
+
+code {
+	color: #7F7F7F;
+}
+
+small {
+	font-size: .85em;
+	line-height: 1.17;
+}

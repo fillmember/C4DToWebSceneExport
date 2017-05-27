@@ -1,0 +1,24 @@
+{
+  "name": "c4d-to-web-scene-export",
+  "version": "1.0.0",
+  "description": "a recipe for exporting c4d scene & animation to web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fillmember@github.com/fillmember/C4DToWebSceneExport.git"
+  },
+  "keywords": [
+    "c4d",
+    "THREE",
+    "GSAP"
+  ],
+  "author": "ten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fillmember/C4DToWebSceneExport/issues"
+  },
+  "homepage": "https://github.com/fillmember/C4DToWebSceneExport#readme"
+}
